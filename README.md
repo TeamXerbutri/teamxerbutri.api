@@ -1,2 +1,3 @@
 # teamxerbutri.api
-The API for team Xerbutri
+
+This is the API for the team Xerbutri website
