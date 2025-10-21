@@ -27,3 +27,6 @@ pnpm-debug.log*
 
 # custom
 app.js
+package.json
+
+package-lock.json
