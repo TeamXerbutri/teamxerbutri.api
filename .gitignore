@@ -30,3 +30,7 @@ app.js
 package.json
 
 package-lock.json
+
+.npmrc
+
+secure_npm_install_per_project.ps1
