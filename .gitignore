@@ -32,3 +32,5 @@ package.json
 package-lock.json
 
 secure_npm_install_per_project.ps1
+
+.vite/deps/_metadata.json
