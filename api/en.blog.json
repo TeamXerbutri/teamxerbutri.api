@@ -48,7 +48,7 @@
 	"errors": {
 		"404": {
 			"title": "Blog not found",
-			"content": "Sorry, we cannot find the blog you are looking for. It might exist in another language. You can change the language in the <a href=\"/\" title=\"Back to the Team Xerbutri index page\">homepage</a>."
+			"content": "Sorry, we cannot find the blog you are looking for. It might exist in another language. You can change the language in the <a class=\"tx-page\" href=\"home\" title=\"Back to the Team Xerbutri index page\">homepage</a>."
 		}
 	}
 }
